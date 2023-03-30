@@ -233,5 +233,10 @@ body{
     }
     .game-img{
         border-radius: 20px;
+        padding-bottom: 10px;
+    }
+    .game-img:hover{
+        transform: scale(1.1);
+        transition: .6s;
     }
 }
